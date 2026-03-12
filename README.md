@@ -9,6 +9,7 @@ Here I practice different technologies, experiment with ideas, and build small a
 * **python-telegram-bot/**
 
   * **InfoBot** — simple Telegram bot project.
+  * **JokeBot** — Telegram bot that sends random Chuck Norris jokes.
 
 More projects will be added over time.
 
