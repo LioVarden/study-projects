@@ -6,6 +6,10 @@ Here I practice different technologies, experiment with ideas, and build small a
 
 ## Repository Structure
 
+* **aiogram/**
+
+  * **TaskReminderBot** — simple Telegram bot for creating and managing personal task reminders.
+
 * **python-telegram-bot/**
 
   * **InfoBot** — simple Telegram bot project.
